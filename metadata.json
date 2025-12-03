@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Stopwatch",
+  "description": "A precise, modern stopwatch application featuring lap tracking, millisecond accuracy, and a dark-themed glassmorphism interface.",
+  "requestFramePermissions": []
+}
