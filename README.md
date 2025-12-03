@@ -33,7 +33,7 @@
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chronos-stopwatch.git
+    git clone https://github.com/rathodyajvin-byte/chronos-stopwatch.git
     ```
 2.  Install dependencies:
     ```bash
